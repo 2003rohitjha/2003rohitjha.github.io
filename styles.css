@@ -1,1 +1,11 @@
-p { color: red; }
+p {
+    color: red;
+}
+
+div {
+    color: teal;
+}
+
+li {
+    color: green;
+}
